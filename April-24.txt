@@ -7,3 +7,5 @@ Boost
 Orange juice
 Mint chocolate chip ice cream
 Pretzels
+Sausage
+Cheese
